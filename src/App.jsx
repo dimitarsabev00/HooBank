@@ -1,7 +1,7 @@
-import "./App.css";
+import React from "react";
 
-function App() {
-  return <div className="App"></div>;
-}
+const App = () => {
+  return <div className="font-bold text-center text-5xl">App</div>;
+};
 
 export default App;
